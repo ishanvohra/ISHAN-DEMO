@@ -1,2 +1,3 @@
 # ISHAN-DEMO
-THIS is my first repository
+THIS is my first git repository
+AUTHOR-ISHAN 
